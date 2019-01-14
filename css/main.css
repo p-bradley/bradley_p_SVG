@@ -1,0 +1,11 @@
+.image-wrapper
+{
+	display: inline-block;
+	width: 70%;
+}
+
+img
+{
+	width: 100%;
+	display: block;
+}
